@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "放課後ディストラクション",
+  "base_artist": "Yakushimaru Etsuko",
+  "createdAt": "2026-02-28T11:53:18.625560Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "放課後ディストラクション",
+      "artist": "YAKUSHIMARU Etsuko",
+      "has_synced": true,
+      "path": "select/01_放課後ディストラクション_YAKUSHIMARU_Etsuko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "放課後ディストラクション",
+      "artist": "やくしまるえつこ",
+      "has_synced": true,
+      "path": "select/02_放課後ディストラクション_やくしまるえつこ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "放課後ディストラクション - AfterSchoolDi (e) stra (u) ction",
+      "artist": "Yakushimaru Etsuko",
+      "has_synced": true,
+      "path": "select/03_放課後ディストラクション_-_AfterSchoolDi_(e)_stra_(u)_ction_Yakushimaru_Etsuko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "放課後ディストラクション",
+      "artist": "Yukushimaru Etsuko",
+      "has_synced": true,
+      "path": "select/04_放課後ディストラクション_Yukushimaru_Etsuko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "放課後ディストラクション",
+      "artist": "やくしまるえつこ",
+      "has_synced": false,
+      "path": "select/pl_01_放課後ディストラクション_やくしまるえつこ.txt"
+    }
+  ]
+}
